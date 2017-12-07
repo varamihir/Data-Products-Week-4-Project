@@ -30,6 +30,8 @@ Here's what you need
 3. It must be on github
 4. It must contained some embedded R code that gets run when slidifying the document
 
-Visit to see the ShinyApp  https://varamihir.shinyapps.io/myApp/
+   Visit to see the ShinyApp  https://varamihir.shinyapps.io/myApp/
+
+   Visit to see the Rstudio presenter on http://rpubs.com/varamihir/338696
 
 
