@@ -32,6 +32,5 @@ Here's what you need
 
    Visit to see the ShinyApp  https://varamihir.shinyapps.io/myshinyApp/
    
-   Visit to see the Rstudio presenter on http://rpubs.com/varamihir/338721
-
+   Visit to see the Rstudio presenter on https://rpubs.com/varamihir/338730
 
