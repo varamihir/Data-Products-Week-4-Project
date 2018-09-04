@@ -31,6 +31,7 @@ Here's what you need
 4. It must contained some embedded R code that gets run when slidifying the document
 
    Visit to see the ShinyApp  https://varamihir.shinyapps.io/myshinyApp/
+   
    Visit to see the Rstudio presenter on http://rpubs.com/varamihir/338721
 
 
